@@ -1,11 +1,6 @@
 
 ## 🚀 About Me
-Data Enthusiast and AI Explorer 🌟
-
-👋 Hey there! I'm an aspiring Data Scientist and I'm really into things like Machine Learning and Deep Learning – they're like teaching computers to think smart! ✨ I love playing with data to find cool stuff hiding inside it(Insights), which helps us make smart choices. I'm also a fan of turning numbers into colorful graphs that tell stories. 📊📈 And oh, I'm super excited about creating AI magic like chatbots (they chat like humans!),Recommendation Systems, and also object detection using various parts of Deep Learning like NLP,Computer Vision.🌟
-Fascinated by the coolness of Generative AI! It's like making computers imagine new things and creating art with them. 🌟🔍🎨
-
-
+ Aspiring Data Analyst , Passionate about unleashing the power of Python in the field of Data Analytics, I'm on a journey of exploration and endless possibilities. With hands-on experience in data manipulation and retrieval using Python, SQL, BI tools, and Excel, I'm well-equipped to tackle any data challenge that comes my way. Whether it's elevating data quality, diving into exploratory data analysis, or implementing customer segmentation techniques, I bring data to life through interactive dashboards that empower data-driven decisions and drive growth. I love Statistical Analysis and Predictive Analytics by constructing ML models using various algorithms. On this journey, I've built and fine-tuned different ML models, paving the way for insightful predictions.I always been passionate & curious to drive insights & find patterns from data.
 
 ## 🛠 Skills
 1. Python
@@ -13,11 +8,9 @@ Fascinated by the coolness of Generative AI! It's like making computers imagine 
 3. Statistics
 4. Web Scrapping
 5. Excel
-6. Pandas , Numpy , Scipy
-7. Matplotlib , Seaborn
-8. Machine Learning
-9. Deep Learning
-10. Flask
+6. Power BI
+7. Machine Learning
+8. Data Storytelling
 
 
 
